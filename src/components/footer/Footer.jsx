@@ -106,7 +106,7 @@ function Footer() {
       </HStack>
 
       <Text textAlign="center" fontSize="sm" color="gray.500">
-        Copyright © 2024. Created by <Link href="#" color="teal.200" _hover={{ textDecoration: 'underline' }}>Meks</Link>. Powered by <Link href="#" color="teal.200" _hover={{ textDecoration: 'underline' }}>WordPress</Link>.
+        Copyright © 2024. Created by <Link href="#" color="teal.200" _hover={{ textDecoration: 'underline' }}>Shreyash</Link>. Powered by <Link href="#" color="teal.200" _hover={{ textDecoration: 'underline' }}>React</Link>.
       </Text>
     </Box>
   );

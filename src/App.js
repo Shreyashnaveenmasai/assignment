@@ -1,27 +1,25 @@
-import {
-  ChakraProvider,
-  theme
-} from '@chakra-ui/react';
 import React from 'react';
 
-import ContentLayout from './ContentLayout';
-import ContentSection from './ContentSection';
-import Footer from './Footer';
-import Header from './Header';
-import LatestArticles from './LatestArticles';
-import Navbar from './Navbar';
-import SliderComponent from './SliderComponent';
+import { ChakraProvider, theme } from '@chakra-ui/react';
+
+import Footer from './components/footer/Footer';
+import Header from './components/header/Header';
+import Navbar from './components/navbar/Navbar';
+import ContentLayout from './components/content/ContentLayout';
+import ContentSection from './components/content/ContentSection';
+import LatestArticles from './components/content/LatestArticles';
+import SliderComponent from './components/content/SliderComponent';
+
 function App() {
   return (
     <ChakraProvider theme={theme}>
-      <Navbar>{}</Navbar>
-      <Header>{}</Header>
-      <SliderComponent>{}</SliderComponent>
-      <ContentSection>{}</ContentSection>
-      <ContentLayout>{}</ContentLayout>
-      <LatestArticles>{}</LatestArticles>
-      <Footer>{}</Footer>
-      
+      <Navbar />
+      <Header />
+      <SliderComponent />
+      <ContentSection />
+      <ContentLayout />
+      <LatestArticles />
+      <Footer />
     </ChakraProvider>
   );
 }
