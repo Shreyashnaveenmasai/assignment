@@ -109,7 +109,7 @@ const ContentSection = () => {
     transition="background-color 0.3s, box-shadow 0.3s, transform 0.3s"
     cursor="pointer"
     aria-label="Fashion post link"
-    onClick={() => window.location.href = '/fashion-post-url-1'}
+    
 >
     <HStack spacing={2} align="flex-start">
         <Image 
