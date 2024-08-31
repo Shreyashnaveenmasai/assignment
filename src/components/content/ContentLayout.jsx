@@ -40,7 +40,7 @@ function ContentLayout() {
           cursor="pointer"
         >
           <Image 
-            src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2020/06/voice3_38-375x195.jpg.webp" 
+            src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2014/11/voice_41-375x195.jpg.webp" 
             alt="Broccoli" 
             w="100%" 
             h="auto"
@@ -82,7 +82,7 @@ function ContentLayout() {
           >
             <Flex>
               <Image 
-                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2014/11/voice_17-380x260.jpg.webp" 
+                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2014/11/voice_17-145x100.jpg.webp" 
                 alt="Pasta Salad" 
                 w="120px" 
                 h="auto"
@@ -119,7 +119,7 @@ function ContentLayout() {
           >
             <Flex>
               <Image 
-                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2014/11/voice_27-380x260.jpg.webp" 
+                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2014/11/voice_27-145x100.jpg.webp" 
                 alt="Wheat Rotini" 
                 w="120px" 
                 h="auto"
@@ -211,7 +211,7 @@ function ContentLayout() {
           >
             <Flex>
               <Image 
-                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2020/06/voice3_17-380x260.jpg.webp" 
+                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2020/06/voice3_17-145x100.jpg.webp" 
                 alt="San Francisco" 
                 w="120px" 
                 h="auto"
@@ -248,7 +248,7 @@ function ContentLayout() {
           >
             <Flex>
               <Image 
-                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2020/06/voice3_22-380x260.jpg.webp" 
+                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2020/06/voice3_16-145x100.jpg.webp" 
                 alt="Nature" 
                 w="120px" 
                 h="auto"
@@ -377,7 +377,7 @@ function ContentLayout() {
           >
             <Flex>
               <Image 
-                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2014/11/voice_27-380x260.jpg.webp" 
+                src="https://mksdmcdn-9b59.kxcdn.com/voice/wp-content/uploads/2020/06/voice3_39-375x195.jpg.webp" 
                 alt="Smart Living" 
                 w="120px" 
                 h="auto"

@@ -31,7 +31,7 @@ const items = [
 const CustomCarousel = () => {
   return (
     <Flex justify="center" mt={8}>
-      <Box width={{ base: '100%', md: '80%' }} maxWidth="1200px">
+      <Box>
         <Carousel
           showThumbs={false}
           infiniteLoop

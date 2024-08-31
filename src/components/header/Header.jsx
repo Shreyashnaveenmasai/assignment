@@ -1,18 +1,18 @@
 import { ChevronDownIcon, SearchIcon } from "@chakra-ui/icons";
 import {
-    Box,
-    Button,
-    Flex,
-    IconButton,
-    Image,
-    Link,
-    Menu,
-    MenuButton,
-    MenuItem,
-    MenuList,
-    Spacer,
-    Text,
-    useBreakpointValue,
+  Box,
+  Button,
+  Flex,
+  IconButton,
+  Image,
+  Link,
+  Menu,
+  MenuButton,
+  MenuItem,
+  MenuList,
+  Spacer,
+  Text,
+  useBreakpointValue,
 } from "@chakra-ui/react";
 import React from "react";
 
@@ -97,8 +97,8 @@ const Header = () => {
               href="#"
               mx={{ base: 1, md: 2 }}
               fontSize={fontSize}
-              fontWeight={item === "Posts" ? "bold" : "normal"}
-              color={item === "Posts" ? "red.500" : "gray.700"}
+              // fontWeight={item === "Posts" ? "bold" : "normal"}
+              // color={item === "Posts" ? "red.500" : "gray.700"}
               _hover={{ textDecoration: "none", color: "red.500", transform: "scale(1.05)", transition: "transform 0.3s ease" }}
             >
               {item} {item !== "Contact" && <ChevronDownIcon />}
